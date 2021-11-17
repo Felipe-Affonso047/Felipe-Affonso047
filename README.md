@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felipe-Affonso047
 - 👀 I’m interested in programming, music and the stock market.
-- 🌱 I’m currently learning C++ and Python.
+- 🌱 I’m currently learning C++, Python, Java and Swift.
 - 💞️ I’m looking to collaborate on learning more of programming.
 - 📫 How to reach me felipegarciaaffonso@gmail.com .
 
